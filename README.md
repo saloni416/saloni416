@@ -2,7 +2,7 @@
 
 <h2> 👩‍💻 Azure Project:</h2>
 
-<b> [Azure Cloud Detection Lab](https://docs.google.com/document/d/1tz2hrVG5uQjYB4076olUtOvk604k43dqRnB-UhLylLY/edit#heading=h.ia4zilc3er5)</b>
+<b> [Azure Cloud Detection Lab](https://github.com/saloni416/Azure-Cloud-Detection-Lab)</b>
  - Configured and deployed Azure Resources such as Log Analytics Workspace, Virtual Machines, and Microsoft Sentinel
  - Implemented Network and Virtual Machine security best practices
  - Utilized Data Connectors to bring data into Microsoft Sentinel for analysis
