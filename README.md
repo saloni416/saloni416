@@ -1,4 +1,4 @@
-<h1>Hi, I'm Saloni! <br/><a href="https://github.com/saloni416">Security Operations Analyst</a>,<a href="https://www.linkedin.com/in/saloni416/"></a></h1>
+<h1>Hi, I'm Saloni! <br/><a href="https://github.com/saloni416">Security Operations Analyst</a><a href="https://www.linkedin.com/in/saloni416/"></a></h1>
 
 <h2> 👩‍💻 Azure Project:</h2>
 
