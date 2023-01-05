@@ -2,8 +2,8 @@
 
 <h2> 👩‍💻 Azure Project:</h2>
 
-- <b> Azure Cloud Detection Lab (https://docs.google.com/document/d/1tz2hrVG5uQjYB4076olUtOvk604k43dqRnB-UhLylLY/edit#heading=h.ia4zilc3er5)</b>
-  - 
+- <b> [Azure Cloud Detection Lab]https://docs.google.com/document/d/1tz2hrVG5uQjYB4076olUtOvk604k43dqRnB-UhLylLY/edit#heading=h.ia4zilc3er5)(</b>
+  - [Praciting Microsoft Sentinel, Microsoft Defender for Cloud, Azure resources, Kusto Query Langauage]([https://github.com/joshmadakor1/Algorithms-Practice](https://docs.google.com/document/d/1tz2hrVG5uQjYB4076olUtOvk604k43dqRnB-UhLylLY/edit#heading=h.ia4zilc3er5)
 
 <h2> 🤳 Connect with me:</h2>
 
